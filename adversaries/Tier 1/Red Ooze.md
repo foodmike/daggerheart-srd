@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Red Ooze
+tier: 1
+type: Skulk
 ---
 
 ```statblock

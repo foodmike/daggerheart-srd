@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Volcanic Dragon: Ashen Tyrant
+tier: 4
+type: Solo
 ---
 
 ```statblock

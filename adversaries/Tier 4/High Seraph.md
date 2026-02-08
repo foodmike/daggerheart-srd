@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: High Seraph
+tier: 4
+type: Leader
 ---
 
 ```statblock

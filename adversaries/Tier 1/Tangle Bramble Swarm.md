@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Tangle Bramble Swarm
+tier: 1
+type: Horde (3/HP)
 ---
 
 ```statblock

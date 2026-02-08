@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Arch-Necromancer
+tier: 4
+type: Leader
 ---
 
 ```statblock

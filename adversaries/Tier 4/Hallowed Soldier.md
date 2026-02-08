@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Hallowed Soldier
+tier: 4
+type: Minion
 ---
 
 ```statblock

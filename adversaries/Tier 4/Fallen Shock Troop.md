@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Fallen Shock Troop
+tier: 4
+type: Minion
 ---
 
 ```statblock

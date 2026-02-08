@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Stag Knight
+tier: 3
+type: Standard
 ---
 
 ```statblock

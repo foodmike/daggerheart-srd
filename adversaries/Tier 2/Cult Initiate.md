@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Cult Initiate
+tier: 2
+type: Minion
 ---
 
 ```statblock

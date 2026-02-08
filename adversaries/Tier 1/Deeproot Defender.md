@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Deeproot Defender
+tier: 1
+type: Bruiser
 ---
 
 ```statblock

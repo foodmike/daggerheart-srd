@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Gorgon
+tier: 2
+type: Solo
 ---
 
 ```statblock

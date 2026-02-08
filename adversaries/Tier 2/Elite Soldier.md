@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Elite Soldier
+tier: 2
+type: Standard
 ---
 
 ```statblock

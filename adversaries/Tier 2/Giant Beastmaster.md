@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Giant Beastmaster
+tier: 2
+type: Leader
 ---
 
 ```statblock

@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Dire Bat
+tier: 3
+type: Skulk
 ---
 
 ```statblock

@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Merchant Baron
+tier: 2
+type: Social
 ---
 
 ```statblock

@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Perfected Zombie
+tier: 4
+type: Bruiser
 ---
 
 ```statblock

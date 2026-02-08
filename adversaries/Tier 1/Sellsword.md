@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Sellsword
+tier: 1
+type: Minion
 ---
 
 ```statblock

@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Fallen Warlord: Realm-Breaker
+tier: 4
+type: Solo
 ---
 
 ```statblock

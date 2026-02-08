@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Swarm of Rats
+tier: 1
+type: Horde (10/HP)
 ---
 
 ```statblock

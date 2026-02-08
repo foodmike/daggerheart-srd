@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Fallen Warlord: Undefeated Champion
+tier: 4
+type: Solo
 ---
 
 ```statblock

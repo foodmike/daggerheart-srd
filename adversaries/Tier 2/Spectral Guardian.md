@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Spectral Guardian
+tier: 2
+type: Standard
 ---
 
 ```statblock

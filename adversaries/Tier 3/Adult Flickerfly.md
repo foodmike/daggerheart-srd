@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Adult Flickerfly
+tier: 3
+type: Solo
 ---
 
 ```statblock

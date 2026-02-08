@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Jagged Knife Hexer
+tier: 1
+type: Support
 ---
 
 ```statblock

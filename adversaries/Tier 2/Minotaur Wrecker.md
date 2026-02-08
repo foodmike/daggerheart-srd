@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Minotaur Wrecker
+tier: 2
+type: Bruiser
 ---
 
 ```statblock

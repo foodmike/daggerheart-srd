@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Giant Mosquitoes
+tier: 1
+type: Horde (5/HP)
 ---
 
 ```statblock

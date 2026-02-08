@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Siren
+tier: 2
+type: Skulk
 ---
 
 ```statblock

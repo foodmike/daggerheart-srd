@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Vault Guardian Sentinel
+tier: 3
+type: Bruiser
 ---
 
 ```statblock

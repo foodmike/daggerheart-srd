@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Demonic Hound Pack
+tier: 2
+type: Horde (1/HP)
 ---
 
 ```statblock

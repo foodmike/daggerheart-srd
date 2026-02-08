@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Stonewraith
+tier: 2
+type: Skulk
 ---
 
 ```statblock

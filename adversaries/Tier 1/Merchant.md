@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Merchant
+tier: 1
+type: Social
 ---
 
 ```statblock

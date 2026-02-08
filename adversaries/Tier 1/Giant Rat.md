@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Giant Rat
+tier: 1
+type: Minion
 ---
 
 ```statblock

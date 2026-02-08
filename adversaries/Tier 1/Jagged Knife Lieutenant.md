@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Jagged Knife Lieutenant
+tier: 1
+type: Leader
 ---
 
 ```statblock

@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Cult Adept
+tier: 2
+type: Support
 ---
 
 ```statblock

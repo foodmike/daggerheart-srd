@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Demon of Despair
+tier: 3
+type: Skulk
 ---
 
 ```statblock

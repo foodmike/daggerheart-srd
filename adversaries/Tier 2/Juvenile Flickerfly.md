@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Juvenile Flickerfly
+tier: 2
+type: Solo
 ---
 
 ```statblock

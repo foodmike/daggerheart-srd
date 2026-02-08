@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Brawny Zombie
+tier: 1
+type: Bruiser
 ---
 
 ```statblock

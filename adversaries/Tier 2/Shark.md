@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Shark
+tier: 2
+type: Bruiser
 ---
 
 ```statblock

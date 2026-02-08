@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Secret-Keeper
+tier: 2
+type: Leader
 ---
 
 ```statblock

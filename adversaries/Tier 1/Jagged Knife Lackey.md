@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Jagged Knife Lackey
+tier: 1
+type: Minion
 ---
 
 ```statblock

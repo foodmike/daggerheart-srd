@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Petty Noble
+tier: 1
+type: Social
 ---
 
 ```statblock

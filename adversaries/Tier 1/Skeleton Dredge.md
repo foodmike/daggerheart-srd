@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Skeleton Dredge
+tier: 1
+type: Minion
 ---
 
 ```statblock

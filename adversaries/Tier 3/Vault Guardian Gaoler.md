@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Vault Guardian Gaoler
+tier: 3
+type: Support
 ---
 
 ```statblock

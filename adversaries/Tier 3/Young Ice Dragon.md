@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Young Ice Dragon
+tier: 3
+type: Solo
 ---
 
 ```statblock

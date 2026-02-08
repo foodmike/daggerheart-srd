@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Fallen Sorcerer
+tier: 4
+type: Support
 ---
 
 ```statblock

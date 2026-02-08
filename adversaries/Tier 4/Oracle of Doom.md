@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Oracle of Doom
+tier: 4
+type: Solo
 ---
 
 ```statblock

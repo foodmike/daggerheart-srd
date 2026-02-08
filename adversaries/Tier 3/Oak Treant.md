@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Oak Treant
+tier: 3
+type: Bruiser
 ---
 
 ```statblock

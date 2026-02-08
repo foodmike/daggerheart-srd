@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Spectral Archer
+tier: 2
+type: Ranged
 ---
 
 ```statblock

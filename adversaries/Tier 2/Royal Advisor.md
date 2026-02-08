@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Royal Advisor
+tier: 2
+type: Social
 ---
 
 ```statblock

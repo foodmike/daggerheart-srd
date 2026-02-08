@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Cave Ogre
+tier: 1
+type: Solo
 ---
 
 ```statblock

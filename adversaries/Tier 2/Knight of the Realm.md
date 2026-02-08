@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Knight of the Realm
+tier: 2
+type: Leader
 ---
 
 ```statblock

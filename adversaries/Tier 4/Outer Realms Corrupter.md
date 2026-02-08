@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Outer Realms Corrupter
+tier: 4
+type: Support
 ---
 
 ```statblock

@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Apprentice Assassin
+tier: 2
+type: Minion
 ---
 
 ```statblock

@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Kraken
+tier: 4
+type: Solo
 ---
 
 ```statblock

@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Giant Eagle
+tier: 2
+type: Skulk
 ---
 
 ```statblock

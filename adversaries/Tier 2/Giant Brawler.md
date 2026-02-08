@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Giant Brawler
+tier: 2
+type: Bruiser
 ---
 
 ```statblock
