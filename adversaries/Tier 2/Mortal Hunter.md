@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Mortal Hunter
+tier: 2
+type: Leader
 ---
 
 ```statblock

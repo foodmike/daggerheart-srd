@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Jagged Knife Shadow
+tier: 1
+type: Skulk
 ---
 
 ```statblock

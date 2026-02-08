@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Demon of Avarice
+tier: 3
+type: Support
 ---
 
 ```statblock

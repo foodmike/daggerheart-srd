@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Minor Chaos Elemental
+tier: 1
+type: Solo
 ---
 
 ```statblock

@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Monarch
+tier: 3
+type: Social
 ---
 
 ```statblock

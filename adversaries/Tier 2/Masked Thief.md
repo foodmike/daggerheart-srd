@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Masked Thief
+tier: 2
+type: Skulk
 ---
 
 ```statblock

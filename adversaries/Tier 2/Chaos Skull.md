@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Chaos Skull
+tier: 2
+type: Ranged
 ---
 
 ```statblock

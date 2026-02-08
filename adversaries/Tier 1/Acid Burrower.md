@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Acid Burrower
+tier: 1
+type: Solo
 ---
 
 ```statblock

@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Pirate Raiders
+tier: 1
+type: Horde (3/HP)
 ---
 
 ```statblock

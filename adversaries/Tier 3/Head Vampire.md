@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Head Vampire
+tier: 3
+type: Leader
 ---
 
 ```statblock

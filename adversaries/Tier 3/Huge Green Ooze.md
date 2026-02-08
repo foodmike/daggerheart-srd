@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Huge Green Ooze
+tier: 3
+type: Skulk
 ---
 
 ```statblock

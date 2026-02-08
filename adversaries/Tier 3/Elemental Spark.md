@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Elemental Spark
+tier: 3
+type: Minion
 ---
 
 ```statblock

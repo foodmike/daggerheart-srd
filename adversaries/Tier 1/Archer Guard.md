@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Archer Guard
+tier: 1
+type: Ranged
 ---
 
 ```statblock

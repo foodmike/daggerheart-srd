@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Minor Treant
+tier: 1
+type: Minion
 ---
 
 ```statblock

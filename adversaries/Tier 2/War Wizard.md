@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: War Wizard
+tier: 2
+type: Ranged
 ---
 
 ```statblock

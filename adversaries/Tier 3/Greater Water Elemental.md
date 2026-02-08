@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Greater Water Elemental
+tier: 3
+type: Support
 ---
 
 ```statblock

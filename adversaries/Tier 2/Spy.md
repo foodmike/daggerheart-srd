@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Spy
+tier: 2
+type: Social
 ---
 
 ```statblock

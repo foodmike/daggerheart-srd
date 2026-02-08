@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Dire Wolf
+tier: 1
+type: Skulk
 ---
 
 ```statblock

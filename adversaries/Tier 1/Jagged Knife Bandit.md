@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Jagged Knife Bandit
+tier: 1
+type: Standard
 ---
 
 ```statblock

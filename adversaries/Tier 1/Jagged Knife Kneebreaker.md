@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Jagged Knife Kneebreaker
+tier: 1
+type: Bruiser
 ---
 
 ```statblock

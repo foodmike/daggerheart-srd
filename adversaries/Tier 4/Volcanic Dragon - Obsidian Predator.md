@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Volcanic Dragon: Obsidian Predator
+tier: 4
+type: Solo
 ---
 
 ```statblock

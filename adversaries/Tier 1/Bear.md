@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Bear
+tier: 1
+type: Bruiser
 ---
 
 ```statblock

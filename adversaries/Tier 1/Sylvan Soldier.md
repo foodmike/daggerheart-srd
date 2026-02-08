@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Sylvan Soldier
+tier: 1
+type: Standard
 ---
 
 ```statblock

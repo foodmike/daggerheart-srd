@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Weaponmaster
+tier: 1
+type: Bruiser
 ---
 
 ```statblock

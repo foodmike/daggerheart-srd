@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Hallowed Archer
+tier: 4
+type: Ranged
 ---
 
 ```statblock

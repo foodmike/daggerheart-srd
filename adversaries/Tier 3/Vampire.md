@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Vampire
+tier: 3
+type: Standard
 ---
 
 ```statblock

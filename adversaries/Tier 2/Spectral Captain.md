@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Spectral Captain
+tier: 2
+type: Leader
 ---
 
 ```statblock

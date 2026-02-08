@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Young Dryad
+tier: 1
+type: Leader
 ---
 
 ```statblock

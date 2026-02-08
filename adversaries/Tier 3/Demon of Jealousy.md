@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Demon of Jealousy
+tier: 3
+type: Ranged
 ---
 
 ```statblock

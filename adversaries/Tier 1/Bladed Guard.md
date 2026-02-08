@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Bladed Guard
+tier: 1
+type: Standard
 ---
 
 ```statblock

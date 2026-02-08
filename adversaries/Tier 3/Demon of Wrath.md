@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Demon of Wrath
+tier: 3
+type: Bruiser
 ---
 
 ```statblock

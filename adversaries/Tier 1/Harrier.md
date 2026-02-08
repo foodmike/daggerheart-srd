@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Harrier
+tier: 1
+type: Standard
 ---
 
 ```statblock

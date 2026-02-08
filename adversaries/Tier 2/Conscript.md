@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Conscript
+tier: 2
+type: Minion
 ---
 
 ```statblock

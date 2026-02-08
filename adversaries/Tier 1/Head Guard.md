@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Head Guard
+tier: 1
+type: Leader
 ---
 
 ```statblock

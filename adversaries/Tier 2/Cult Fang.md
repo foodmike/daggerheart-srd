@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Cult Fang
+tier: 2
+type: Skulk
 ---
 
 ```statblock

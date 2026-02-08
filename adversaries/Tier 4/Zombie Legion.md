@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Zombie Legion
+tier: 4
+type: Horde (3/HP)
 ---
 
 ```statblock

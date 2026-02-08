@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Pirate Captain
+tier: 1
+type: Leader
 ---
 
 ```statblock

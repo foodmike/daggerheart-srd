@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Failed Experiment
+tier: 2
+type: Standard
 ---
 
 ```statblock

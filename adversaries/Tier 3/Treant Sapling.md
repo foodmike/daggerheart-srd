@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Treant Sapling
+tier: 3
+type: Minion
 ---
 
 ```statblock

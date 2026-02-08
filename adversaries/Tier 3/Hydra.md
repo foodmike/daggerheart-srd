@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Hydra
+tier: 3
+type: Solo
 ---
 
 ```statblock

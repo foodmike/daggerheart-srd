@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Greater Earth Elemental
+tier: 3
+type: Bruiser
 ---
 
 ```statblock

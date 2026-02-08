@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Minor Fire Elemental
+tier: 1
+type: Solo
 ---
 
 ```statblock

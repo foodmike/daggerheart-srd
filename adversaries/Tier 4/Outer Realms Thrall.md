@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Outer Realms Thrall
+tier: 4
+type: Minion
 ---
 
 ```statblock

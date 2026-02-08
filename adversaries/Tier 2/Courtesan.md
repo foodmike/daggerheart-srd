@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Courtesan
+tier: 2
+type: Social
 ---
 
 ```statblock

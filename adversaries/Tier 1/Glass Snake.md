@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Glass Snake
+tier: 1
+type: Standard
 ---
 
 ```statblock

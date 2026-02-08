@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Giant Scorpion
+tier: 1
+type: Bruiser
 ---
 
 ```statblock

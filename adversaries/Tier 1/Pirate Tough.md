@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Pirate Tough
+tier: 1
+type: Bruiser
 ---
 
 ```statblock

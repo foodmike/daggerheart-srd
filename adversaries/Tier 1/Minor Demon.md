@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Minor Demon
+tier: 1
+type: Solo
 ---
 
 ```statblock

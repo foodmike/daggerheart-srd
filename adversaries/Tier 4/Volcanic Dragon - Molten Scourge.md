@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Volcanic Dragon: Molten Scourge
+tier: 4
+type: Solo
 ---
 
 ```statblock

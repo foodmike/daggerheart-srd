@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Electric Eels
+tier: 2
+type: Horde (2/HP)
 ---
 
 ```statblock

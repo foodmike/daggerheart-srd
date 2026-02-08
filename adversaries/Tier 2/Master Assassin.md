@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Master Assassin
+tier: 2
+type: Leader
 ---
 
 ```statblock

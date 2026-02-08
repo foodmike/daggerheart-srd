@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Jagged Knife Sniper
+tier: 1
+type: Ranged
 ---
 
 ```statblock

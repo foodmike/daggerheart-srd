@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Construct
+tier: 1
+type: Solo
 ---
 
 ```statblock

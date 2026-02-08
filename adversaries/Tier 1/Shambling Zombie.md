@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Shambling Zombie
+tier: 1
+type: Standard
 ---
 
 ```statblock

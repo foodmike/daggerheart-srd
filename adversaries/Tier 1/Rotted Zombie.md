@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Rotted Zombie
+tier: 1
+type: Minion
 ---
 
 ```statblock

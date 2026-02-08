@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Spellblade
+tier: 1
+type: Leader
 ---
 
 ```statblock

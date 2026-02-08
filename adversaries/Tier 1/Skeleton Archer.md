@@ -1,5 +1,8 @@
 ---
 statblock: inline
+name: Skeleton Archer
+tier: 1
+type: Ranged
 ---
 
 ```statblock
