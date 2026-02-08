@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Pirate Tough
 tier: 1
 type: Bruiser

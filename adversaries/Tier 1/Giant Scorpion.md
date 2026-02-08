@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Giant Scorpion
 tier: 1
 type: Bruiser

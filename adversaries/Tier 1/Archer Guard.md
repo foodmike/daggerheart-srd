@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Archer Guard
 tier: 1
 type: Ranged

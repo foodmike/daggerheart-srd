@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Gorgon
 tier: 2
 type: Solo

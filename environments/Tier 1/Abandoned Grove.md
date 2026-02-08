@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Abandoned Grove
+tier: 1
+type: Exploration
 ---
 
 ```statblock

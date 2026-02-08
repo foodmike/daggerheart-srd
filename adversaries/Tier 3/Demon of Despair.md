@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Demon of Despair
 tier: 3
 type: Skulk

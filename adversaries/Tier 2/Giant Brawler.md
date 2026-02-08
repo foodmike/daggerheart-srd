@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Giant Brawler
 tier: 2
 type: Bruiser

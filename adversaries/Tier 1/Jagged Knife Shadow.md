@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Jagged Knife Shadow
 tier: 1
 type: Skulk

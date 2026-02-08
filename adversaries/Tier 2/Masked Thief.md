@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Masked Thief
 tier: 2
 type: Skulk

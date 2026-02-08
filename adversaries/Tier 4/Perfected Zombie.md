@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Perfected Zombie
 tier: 4
 type: Bruiser

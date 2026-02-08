@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Outer Realms Corrupter
 tier: 4
 type: Support

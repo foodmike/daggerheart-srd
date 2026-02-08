@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Volcanic Dragon: Molten Scourge
 tier: 4
 type: Solo

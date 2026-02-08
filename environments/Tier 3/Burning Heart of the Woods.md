@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Burning Heart of the Woods
+tier: 3
+type: Exploration
 ---
 
 ```statblock

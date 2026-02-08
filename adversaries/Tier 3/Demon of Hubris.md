@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Demon of Hubris
 tier: 3
 type: Leader

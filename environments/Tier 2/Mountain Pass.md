@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Mountain Pass
+tier: 2
+type: Traversal
 ---
 
 ```statblock

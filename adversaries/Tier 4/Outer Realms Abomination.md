@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Outer Realms Abomination
 tier: 4
 type: Bruiser

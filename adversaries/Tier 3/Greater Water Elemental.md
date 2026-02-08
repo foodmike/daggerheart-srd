@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Greater Water Elemental
 tier: 3
 type: Support

@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Fallen Warlord: Realm-Breaker
 tier: 4
 type: Solo

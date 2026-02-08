@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Demon of Avarice
 tier: 3
 type: Support

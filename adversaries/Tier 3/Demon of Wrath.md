@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Demon of Wrath
 tier: 3
 type: Bruiser

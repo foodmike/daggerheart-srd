@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Hallowed Temple
+tier: 2
+type: Social
 ---
 
 ```statblock

@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Huge Green Ooze
 tier: 3
 type: Skulk

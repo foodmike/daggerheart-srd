@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Young Ice Dragon
 tier: 3
 type: Solo

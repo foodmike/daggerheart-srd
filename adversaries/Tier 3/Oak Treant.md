@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Oak Treant
 tier: 3
 type: Bruiser

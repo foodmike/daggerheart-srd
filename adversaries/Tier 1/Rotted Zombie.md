@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Rotted Zombie
 tier: 1
 type: Minion

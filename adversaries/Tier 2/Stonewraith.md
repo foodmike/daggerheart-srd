@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Stonewraith
 tier: 2
 type: Skulk

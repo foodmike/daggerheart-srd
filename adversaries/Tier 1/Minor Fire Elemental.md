@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Minor Fire Elemental
 tier: 1
 type: Solo

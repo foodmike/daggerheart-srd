@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Sylvan Soldier
 tier: 1
 type: Standard

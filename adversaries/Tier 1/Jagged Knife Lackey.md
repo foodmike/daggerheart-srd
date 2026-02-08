@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Jagged Knife Lackey
 tier: 1
 type: Minion

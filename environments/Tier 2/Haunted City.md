@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Haunted City
+tier: 2
+type: Exploration
 ---
 
 ```statblock

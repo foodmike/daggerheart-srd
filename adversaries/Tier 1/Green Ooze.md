@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Green Ooze
 tier: 1
 type: Skulk

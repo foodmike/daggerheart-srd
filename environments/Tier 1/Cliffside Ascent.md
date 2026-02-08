@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Cliffside Ascent
+tier: 1
+type: Traversal
 ---
 
 ```statblock

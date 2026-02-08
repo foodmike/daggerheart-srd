@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Chaos Realm
+tier: 4
+type: Traversal
 ---
 
 ```statblock

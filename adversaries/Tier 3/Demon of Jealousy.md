@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Demon of Jealousy
 tier: 3
 type: Ranged

@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Raging River
+tier: 1
+type: Traversal
 ---
 
 ```statblock

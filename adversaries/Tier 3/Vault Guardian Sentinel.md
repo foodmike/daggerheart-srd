@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Vault Guardian Sentinel
 tier: 3
 type: Bruiser

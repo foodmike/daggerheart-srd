@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Hallowed Soldier
 tier: 4
 type: Minion

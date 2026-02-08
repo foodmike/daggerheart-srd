@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Chaos Skull
 tier: 2
 type: Ranged

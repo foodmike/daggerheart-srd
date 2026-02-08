@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Red Ooze
 tier: 1
 type: Skulk

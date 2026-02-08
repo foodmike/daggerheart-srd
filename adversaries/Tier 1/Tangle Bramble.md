@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Tangle Bramble
 tier: 1
 type: Minion

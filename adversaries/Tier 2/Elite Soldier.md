@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Elite Soldier
 tier: 2
 type: Standard

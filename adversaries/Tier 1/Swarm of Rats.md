@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Swarm of Rats
 tier: 1
 type: Horde (10/HP)

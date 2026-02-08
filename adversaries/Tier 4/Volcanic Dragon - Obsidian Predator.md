@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Volcanic Dragon: Obsidian Predator
 tier: 4
 type: Solo

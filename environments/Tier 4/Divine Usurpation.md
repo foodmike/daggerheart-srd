@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Divine Usurpation
+tier: 4
+type: Event
 ---
 
 ```statblock

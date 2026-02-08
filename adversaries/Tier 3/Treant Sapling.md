@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Treant Sapling
 tier: 3
 type: Minion

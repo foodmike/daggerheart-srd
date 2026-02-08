@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Spectral Guardian
 tier: 2
 type: Standard

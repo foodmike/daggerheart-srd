@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Necromancer's Ossuary
+tier: 4
+type: Exploration
 ---
 
 ```statblock

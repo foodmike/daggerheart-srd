@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Zombie Legion
 tier: 4
 type: Horde (3/HP)

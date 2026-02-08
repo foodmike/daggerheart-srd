@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Archer Squadron
 tier: 2
 type: Horde (2/HP)

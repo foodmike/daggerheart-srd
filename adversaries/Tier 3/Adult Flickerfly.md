@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Adult Flickerfly
 tier: 3
 type: Solo

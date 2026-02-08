@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Shambling Zombie
 tier: 1
 type: Standard

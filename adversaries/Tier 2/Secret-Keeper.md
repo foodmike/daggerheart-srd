@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Secret-Keeper
 tier: 2
 type: Leader

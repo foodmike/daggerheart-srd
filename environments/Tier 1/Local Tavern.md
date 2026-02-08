@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Local Tavern
+tier: 1
+type: Social
 ---
 
 ```statblock

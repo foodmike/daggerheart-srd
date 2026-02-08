@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Cult Ritual
+tier: 2
+type: Event
 ---
 
 ```statblock

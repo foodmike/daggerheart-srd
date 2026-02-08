@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Oracle of Doom
 tier: 4
 type: Solo

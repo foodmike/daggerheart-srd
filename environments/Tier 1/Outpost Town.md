@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Outpost Town
+tier: 1
+type: Social
 ---
 
 ```statblock

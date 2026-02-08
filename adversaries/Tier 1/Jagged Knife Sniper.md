@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Jagged Knife Sniper
 tier: 1
 type: Ranged

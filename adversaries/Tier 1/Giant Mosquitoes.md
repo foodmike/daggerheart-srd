@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Giant Mosquitoes
 tier: 1
 type: Horde (5/HP)

@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Apprentice Assassin
 tier: 2
 type: Minion

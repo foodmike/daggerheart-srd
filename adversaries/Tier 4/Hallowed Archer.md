@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Hallowed Archer
 tier: 4
 type: Ranged

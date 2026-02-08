@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Vault Guardian Gaoler
 tier: 3
 type: Support

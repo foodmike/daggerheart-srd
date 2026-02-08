@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Dire Bat
 tier: 3
 type: Skulk

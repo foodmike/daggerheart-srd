@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Outer Realms Thrall
 tier: 4
 type: Minion

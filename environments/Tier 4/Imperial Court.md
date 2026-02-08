@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Imperial Court
+tier: 4
+type: Social
 ---
 
 ```statblock

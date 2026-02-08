@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Bustling Marketplace
+tier: 1
+type: Social
 ---
 
 ```statblock

@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Pitched Battle
+tier: 3
+type: Event
 ---
 
 ```statblock

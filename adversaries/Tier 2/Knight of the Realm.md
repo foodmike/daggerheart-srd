@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Knight of the Realm
 tier: 2
 type: Leader

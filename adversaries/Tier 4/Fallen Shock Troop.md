@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Fallen Shock Troop
 tier: 4
 type: Minion

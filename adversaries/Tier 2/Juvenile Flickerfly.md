@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Juvenile Flickerfly
 tier: 2
 type: Solo

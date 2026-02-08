@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Ambushers
+tier: 1
+type: Event
 ---
 
 ```statblock

@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Skeleton Warrior
 tier: 1
 type: Standard

@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Spectral Captain
 tier: 2
 type: Leader

@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Pirate Raiders
 tier: 1
 type: Horde (3/HP)

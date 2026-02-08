@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Fallen Sorcerer
 tier: 4
 type: Support

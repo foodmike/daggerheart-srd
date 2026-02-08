@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Spectral Archer
 tier: 2
 type: Ranged

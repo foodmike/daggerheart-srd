@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Fallen Warlord: Undefeated Champion
 tier: 4
 type: Solo

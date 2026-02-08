@@ -1,5 +1,10 @@
 ---
 statblock: inline
+category: Environment
+source: SRD
+name: Castle Siege
+tier: 3
+type: Event
 ---
 
 ```statblock

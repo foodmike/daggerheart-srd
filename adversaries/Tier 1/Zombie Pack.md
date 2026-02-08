@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Zombie Pack
 tier: 1
 type: Horde (2/HP)

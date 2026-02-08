@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Tangle Bramble Swarm
 tier: 1
 type: Horde (3/HP)

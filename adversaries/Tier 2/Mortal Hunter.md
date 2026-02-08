@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Mortal Hunter
 tier: 2
 type: Leader

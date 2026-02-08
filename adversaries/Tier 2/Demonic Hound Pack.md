@@ -1,5 +1,7 @@
 ---
 statblock: inline
+category: Adversary
+source: SRD
 name: Demonic Hound Pack
 tier: 2
 type: Horde (1/HP)
